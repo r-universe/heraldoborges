@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "STMotif"]
+	path = STMotif
+	url = https://github.com/heraldoborges/stmotif
+	shallow = true
+	registered = true
